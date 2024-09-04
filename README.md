@@ -1,5 +1,5 @@
 
-# Autocomplete Component (React)
+# e-library (React)
 
 The `e-library` project is a simple web application that allows users to search for books
 using the Google Books API and display the results.
