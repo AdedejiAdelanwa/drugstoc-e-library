@@ -21,6 +21,7 @@ using the Google Books API and display the results.
 
 ![Onload](./images/onLoad.png)
 ![Fetched Results](./images/search-results.png)
+![Mobile View](./images/mobile-view.png)
 ![Pagination](./images/paginated.png)
 ![Book Details](./images/more-details.png)
 
